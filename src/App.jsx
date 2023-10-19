@@ -11,7 +11,7 @@ function App() {
       cars.map(car=>{
         return(
           <Card perfil={card}>
-          <Cars perfil={card}/>
+          <Card perfil={card}/>
           
           </Card>
         )
